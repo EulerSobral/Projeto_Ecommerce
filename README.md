@@ -7,7 +7,7 @@ relação de cancelamento com o rating dos produtos e o faturamento dos produtos
 A análise desses dados tem como finalidade melhorar as campanhas de marketing da empresa   
 
 # Acesso do Dashboark pelo link 
-[clique aqui](https://app.powerbi.com/groups/me/reports/52675953-4035-453a-92bd-3b55cda8d661?ctid=92c38fd1-976a-415d-8035-444056061039&pbi_source=linkShare&bookmarkGuid=4db3b35d-6a19-428f-8250-d204c746b38a)
+[clique aqui]([https://app.powerbi.com/groups/me/reports/52675953-4035-453a-92bd-3b55cda8d661?ctid=92c38fd1-976a-415d-8035-444056061039&pbi_source=linkShare&bookmarkGuid=4db3b35d-6a19-428f-8250-d204c746b38a](https://app.powerbi.com/view?r=eyJrIjoiN2RlNjQ5OGMtNTFjZi00M2NhLWFjOTctNmZhYTZhN2RjMTNmIiwidCI6IjkyYzM4ZmQxLTk3NmEtNDE1ZC04MDM1LTQ0NDA1NjA2MTAzOSJ9))
 
 # Visualização do código das análises em Python 
 Para visualzar o arquivo do código das análises será necessário baixar o arquivo ecommerce.ipynb. Caso ocorra algum problema na execução da célula 
